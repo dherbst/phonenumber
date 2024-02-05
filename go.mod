@@ -1,3 +1,3 @@
-module github.com/dherbst/phonenumber
+module phonenumber
 
 go 1.21.5
