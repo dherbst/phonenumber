@@ -4,7 +4,7 @@ Decode letters into a phone number.
 # Installation
 You can install with
 
-    go install github.com/dherbst/phonenumber
+    go install github.com/dherbst/phonenumber@latest
 
 # Usage
 
